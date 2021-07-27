@@ -1,0 +1,11 @@
+{
+  "name": "with-typescript",
+  "description": "Design Patterns with TypeScript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Guilherme Esdras",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
