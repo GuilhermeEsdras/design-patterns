@@ -1,8 +1,8 @@
-# Singleton Pattern
+# Singleton pattern - Creational (Criação)
 
 ## Intenção Oficial
 
-Garantir que uma classe tenha somente uma instância no programa e fornecer um ponto de acesso global para a mesma.
+*Garantir que uma classe tenha somente uma instância no programa e fornecer um ponto de acesso global para a mesma.*
 
 ### Somente uma instância?
 
@@ -45,8 +45,10 @@ console.log(instance1 === instance2); // true
 
 ## Aplicabilidade
 
-- Use o Singleton quando uma classe precisa ter somente uma instância disponível em todo o seu programa;
-- Use o singleton quando perceber que está usando variáveis globais para manter partes importantes do programa, como variáveis de configuração que são usadas por toda a aplicação.
+Use o Singleton quando:
+
+- uma classe precisa ter somente uma instância disponível em todo o seu programa;
+- perceber que está usando variáveis globais para manter partes importantes do programa, como variáveis de configuração que são usadas por toda a aplicação.
 
 ## Consequências
 
