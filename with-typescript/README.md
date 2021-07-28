@@ -3,6 +3,7 @@
 Este repositório armazena meus estudos e códigos sobre Padrões de Projetos usando a linguagem TypeScript.
 
 As pastas estão organizadas com as categorias dos padrões de projeto segundo o livro da GoF. São elas:
+
 - Behavioural;
 - Creational;
 - Structural.
