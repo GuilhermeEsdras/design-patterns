@@ -16,7 +16,7 @@ Garantir que uma classe tenha somente uma instância no programa e fornecer um p
 
 ## Diagrama
 
-![Estrutura do Singleton]('/diagramas/Singleton - Estrutura.png')
+![Estrutura do Singleton](diagramas/Singleton%20-%20Estrutura.png)
 
 ## Implementação
 
