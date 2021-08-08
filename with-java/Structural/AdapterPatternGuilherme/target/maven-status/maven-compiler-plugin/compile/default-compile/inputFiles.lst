@@ -1,0 +1,4 @@
+/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/ServicoTomada3PinosProtocol.java
+/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/ClientePlugParaTomada3Pinos.java
+/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/ClientePlugParaTomada2Pinos.java
+/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/Plug2PinosAdapter.java
