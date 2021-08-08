@@ -1,0 +1,4 @@
+dev/esdras/padroes/adapter/ServicoTomada3PinosProtocol.class
+dev/esdras/padroes/adapter/ClientePlugParaTomada3Pinos.class
+dev/esdras/padroes/adapter/ClientePlugParaTomada2Pinos.class
+dev/esdras/padroes/adapter/Plug2PinosAdapter.class

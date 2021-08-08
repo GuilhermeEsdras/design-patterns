@@ -1,4 +1,4 @@
-/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/ServicoTomada3PinosProtocol.java
-/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/ClientePlugParaTomada3Pinos.java
-/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/ClientePlugParaTomada2Pinos.java
-/home/guilhermeesdras/Comp. Engineering/Design Patterns/Atvs/01 - Adapter/AdapterPatternGuilherme/src/main/java/dev/guilherme/padroes/adapter/Plug2PinosAdapter.java
+/home/guilhermeesdras/repos/design-patterns/with-java/Structural/AdapterPatternGuilherme/src/main/java/dev/esdras/padroes/adapter/Plug2PinosAdapter.java
+/home/guilhermeesdras/repos/design-patterns/with-java/Structural/AdapterPatternGuilherme/src/main/java/dev/esdras/padroes/adapter/ClientePlugParaTomada3Pinos.java
+/home/guilhermeesdras/repos/design-patterns/with-java/Structural/AdapterPatternGuilherme/src/main/java/dev/esdras/padroes/adapter/ServicoTomada3PinosProtocol.java
+/home/guilhermeesdras/repos/design-patterns/with-java/Structural/AdapterPatternGuilherme/src/main/java/dev/esdras/padroes/adapter/ClientePlugParaTomada2Pinos.java
