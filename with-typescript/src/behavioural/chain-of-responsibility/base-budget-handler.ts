@@ -1,9 +1,9 @@
-import {CustomerBudget} from './customer-budget'
+import { CustomerBudget } from './customer-budget';
 
-export abstract class baseBudgetHandler {
-  protected nextHandler: baseBudgetHandler | null = null;
+export abstract class BaseBudgetHandler {
+  protected nextHandler: BaseBudgetHandler | null = null;
 
-  setNextHandler(handler: baseBudgetHandler): baseBudgetHandler {
+  setNextHandler(handler: BaseBudgetHandler): BaseBudgetHandler {
     this.nextHandler = handler;
     return handler;
   }

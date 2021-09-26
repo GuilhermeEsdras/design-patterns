@@ -1,7 +1,7 @@
-import { baseBudgetHandler } from './base-budget-handler';
+import { BaseBudgetHandler } from './base-budget-handler';
 import { CustomerBudget } from './customer-budget';
 
-export class DirectorBudgetHandler extends baseBudgetHandler {
+export class DirectorBudgetHandler extends BaseBudgetHandler {
   handle(budget: CustomerBudget): CustomerBudget {
     if (budget.total <= 50000) {
       console.log('O diretor tratou o orçamento');
