@@ -1,0 +1,5 @@
+examplo1@email1.com
+examplo2@email2.com
+examplo3@email3.com
+outrotest
+ls
